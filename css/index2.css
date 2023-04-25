@@ -195,10 +195,8 @@ ul {
      
     body {
         background-image: url(https://i.pinimg.com/564x/12/45/1e/12451ef021c6cf30c5e273a05631c02a.jpg);
-        background-position: center;
-        background-image: fixed;
-        background-repeat: no-repeat;
-        background-position: contain;
+        width: 200px;
+        height: 50px;
     }
     
     .containter {
