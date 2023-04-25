@@ -53,6 +53,7 @@ body {
     background-image: url(https://i.pinimg.com/564x/f8/f5/94/f8f5949eac79c86f399384b3aebe046f.jpg);
     background-size: contain;
     justify-content: center;
+    background-position: center bottom 20px;
     }
  
 }
