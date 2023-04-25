@@ -198,18 +198,6 @@ ul {
         width: 200px;
         height: 50px;
     }
-    
-    .containter {
-        display: block;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 400px;
-        height: 100px;
-        margin: 0 auto;
-        flex-direction: column;
-        align-items: flex-start;
-    }
 
     .imagenfrases {
         justify-content: center;
