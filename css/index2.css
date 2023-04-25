@@ -196,19 +196,9 @@ ul {
     body {
         background-image: url(https://i.pinimg.com/564x/12/45/1e/12451ef021c6cf30c5e273a05631c02a.jpg);
         background-size: contain;
+        justify-content: center;
     }
 
-    .containter {
-        display: block;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 400px;
-        height: 100px;
-        margin: 0 auto;
-        flex-direction: column;
-        align-items: flex-start;
-    }
 
     .imagenfrases {
         justify-content: center;
@@ -230,16 +220,6 @@ ul {
         justify-content: center;
         text-align: center;
         font-weight: 100;
-    }
-    
-    .union {
-        display: flex;
-        justify-content: left;
-    }
-
-    .nota {
-        display: flex;
-        flex-direction: column;
     }
 
     div.union img.derecha {
@@ -264,22 +244,40 @@ ul {
         font-weight: 100;
     }
 
-    .frases2 {
-        clear: right;
-    }
-
-    .peliculas {
+    .union {
         flex-direction: column;
-        clear: right;
+        flex-wrap: wrap;
     }
 
-    div.union div aside div a.nota {
-        display: inline-block;
+    .union > h3 {
+        width: 100%;
+      }
+      .contenedorfrases {
+        width: 100%;
+      }
+      .contenedorfrases .frasescontainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .contenedorfrases .frasescontainer h3 {
+        text-align: right;
+        margin-bottom: 0;
+      }
+      .contenedorfrases .frasescontainer .números {
+        margin-right: 5px;
+      }
 
+    .contenedorfrases {
+        margin-bottom: 20px;
+    }
+
+    .nota {
+        margin: 0;
     }
 
     .iyt {
-        grid-template-rows: 60px;
+        grid-row: 4;
     }
 
   
