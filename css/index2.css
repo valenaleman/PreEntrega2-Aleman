@@ -195,8 +195,19 @@ ul {
      
     body {
         background-image: url(https://i.pinimg.com/564x/12/45/1e/12451ef021c6cf30c5e273a05631c02a.jpg);
-        width: 200px;
-        height: 50px;
+        background-size: contain;
+    }
+
+    .containter {
+        display: block;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 400px;
+        height: 100px;
+        margin: 0 auto;
+        flex-direction: column;
+        align-items: flex-start;
     }
 
     .imagenfrases {
@@ -226,6 +237,11 @@ ul {
         justify-content: left;
     }
 
+    .nota {
+        display: flex;
+        flex-direction: column;
+    }
+
     div.union img.derecha {
         height: 200px;
         width: 200px;
@@ -248,10 +264,8 @@ ul {
         font-weight: 100;
     }
 
-   
-    .nota {
-        display: flex;
-        flex-direction: column;
+    .frases2 {
+        clear: right;
     }
 
     .peliculas {
@@ -259,19 +273,16 @@ ul {
         clear: right;
     }
 
-    .frases2 {
-        clear: right;
-    }
-
-
-    .iyt {
-        grid-template-rows: 10px;
-    }
-
     div.union div aside div a.nota {
         display: inline-block;
 
     }
+
+    .iyt {
+        grid-template-rows: 60px;
+    }
+
+  
 }
 
 /* Estilos para dispositivos desktop */
