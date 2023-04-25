@@ -181,7 +181,12 @@ ul {
 
     body {
         background-image: url(https://i.pinimg.com/564x/12/45/1e/12451ef021c6cf30c5e273a05631c02a.jpg);
+<<<<<<< HEAD
         background-size: contain;
+=======
+        width: 200px;
+        height: 50px;
+>>>>>>> c8e6b158dd22940a0e2d9a9ec4558a46b98bfed6
     }
 
     .containter {
@@ -195,7 +200,11 @@ ul {
         flex-direction: column;
         align-items: flex-start;
     }
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> c8e6b158dd22940a0e2d9a9ec4558a46b98bfed6
     .titulo {
         justify-content: center;
         text-align: center;
