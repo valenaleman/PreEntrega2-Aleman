@@ -63,7 +63,7 @@ body {
 @media screen and (max-width: 1500px) {
     body {
         background-image: url(https://i.pinimg.com/564x/f8/f5/94/f8f5949eac79c86f399384b3aebe046f.jpg);
-        background-position: bottom;
+        background-position: center bottom;
         background-image: fixed;
         background-repeat: no-repeat;
         background-position: contain;
