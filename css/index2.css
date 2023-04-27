@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://i.pinimg.com/564x/12/45/1e/12451ef021c6cf30c5e273a05631c02a.jpg);
+    background-image: url(https://i.pinimg.com/564x/0f/ba/6c/0fba6c2724189b6d625a946677ad8f50.jpg);
     width: 100%;
     height: 300px;
     object-fit: cover;
@@ -194,7 +194,7 @@ ul {
 @media screen and (max-width: 400px) {
      
     body {
-        background-image: url(https://i.pinimg.com/564x/12/45/1e/12451ef021c6cf30c5e273a05631c02a.jpg);
+        background-image: url(https://i.pinimg.com/564x/0f/ba/6c/0fba6c2724189b6d625a946677ad8f50.jpg);
         background-size: contain;
         justify-content: center;
     }
@@ -285,7 +285,7 @@ ul {
 
 @media screen and (max-width: 1500px) {
     body {
-        background-image: url(https://i.pinimg.com/564x/12/45/1e/12451ef021c6cf30c5e273a05631c02a.jpg);
+        background-image: url(https://i.pinimg.com/564x/0f/ba/6c/0fba6c2724189b6d625a946677ad8f50.jpg);
         background-position: center;
         background-image: fixed;
         background-repeat: no-repeat;
