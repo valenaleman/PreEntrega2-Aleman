@@ -189,9 +189,13 @@ ul {
 
     body {
         background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
-        background-size: cover contain;
-        background-position: center;
+        background-size: cover;
+        background-position: center center;
         justify-content: center;
+        display: flex;
+        height: 100%;
+        width: 100%;
+        align-items: center;
     }
 
     .containter {
