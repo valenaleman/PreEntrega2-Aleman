@@ -9,7 +9,7 @@ body {
     background-size: cover;
 }
 
-.header .navbar {
+.navbar{
     background-color: transparent !important;
 }
 

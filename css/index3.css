@@ -83,6 +83,10 @@ body {
     background-size: cover;
 }
 
+.navbar{
+    background-color: transparent !important;
+}
+
 #header {
     margin: auto;
     width: 500px;
