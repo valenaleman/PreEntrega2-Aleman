@@ -199,10 +199,16 @@ ul {
         flex-direction: column;
         align-items: flex-start;
     }
+
     .titulo {
         justify-content: center;
         text-align: center;
         font-weight: 200;
+    }
+
+    .union {
+        flex-direction: column;
+        flex-wrap: wrap;
     }
     
     .frases {
