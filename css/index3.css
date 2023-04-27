@@ -174,7 +174,7 @@ ul {
 @media screen and (max-width: 400px) {
     body {
         background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
-        background-size: cover;
+        background-size: cover contain;
         justify-content: center;
         background-position: center;
     }
