@@ -200,7 +200,8 @@ ul {
         background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
         background-size: cover;
         justify-content: center;
-    }
+        background-position: center;
+      }
 
 
     .imagenfrases {
