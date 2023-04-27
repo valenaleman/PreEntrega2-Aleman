@@ -200,6 +200,15 @@ ul {
 /* Estilos para dispositivos móviles */
 
 @media screen and (max-width: 400px) {
+    .container {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
     .container::before {
         content: "";
         background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
