@@ -202,15 +202,10 @@ ul {
 @media screen and (max-width: 400px) {
     body {
         background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
-        background-size: cover;
-        background-position: center center;
-        height: 100%;
-        width: 100%;
-        margin: 0;
-        display: flex;
+        background-size: cover contain;
         justify-content: center;
-        align-items: center;
-      }
+        background-position: center;
+    }
 
     .imagenfrases {
         justify-content: center;
