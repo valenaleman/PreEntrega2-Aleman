@@ -73,7 +73,7 @@ justify-content: center;
 }
 
 body {
-    background-image: url(https://ar.pinterest.com/pin/1072701204974604490/);
+    background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
     width: 100%;
     height: 300px;
     object-fit: cover;
@@ -170,7 +170,7 @@ ul {
 @media screen and (max-width: 400px) {
 
     body {
-        background-image: url(https://ar.pinterest.com/pin/1072701204974604490/);
+        background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
         background-size: contain;
     }
 
@@ -231,7 +231,7 @@ ul {
 
 @media screen and (max-width: 1500px) {
     body {
-        background-image: url(https://ar.pinterest.com/pin/1072701204974604490/);
+        background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
         background-position: center;
         background-image: fixed;
         background-repeat: no-repeat;
