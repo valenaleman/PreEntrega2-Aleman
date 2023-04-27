@@ -62,6 +62,10 @@ h6 {
     color: rebeccapurple;
 }
 
+.acount {
+    color: black;
+ }
+
 .box-model {
     margin: 30px 5px 5px 15px;
     padding: 10px 0 10px 5px;
