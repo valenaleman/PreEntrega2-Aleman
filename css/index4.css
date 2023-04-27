@@ -222,10 +222,8 @@ ul {
 @media screen and (max-width: 1500px) {
     body {
         background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
-        background-position: center;
-        background-image: fixed;
-        background-repeat: no-repeat;
-        background-position: contain;
+        background-size: cover;
+        justify-content: center;
     }
 
     .frases {
