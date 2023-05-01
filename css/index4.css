@@ -247,9 +247,9 @@ ul {
 
     body {
         background-image: url(https://i.pinimg.com/564x/fd/25/cc/fd25cc4130db0b4a6085deab09efac44.jpg);
-        background-attachment: scroll;
         background-size: 100% auto;
         background-position: center center;
+        min-height: 100vh;
     }
 
     .containter {
